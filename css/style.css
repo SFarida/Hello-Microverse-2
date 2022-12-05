@@ -1,0 +1,21 @@
+#main{
+    margin: 4%;
+}
+#img-div {
+    width: 100%;
+    position: relative;
+    /* Center image*/
+    display: flex;
+    justify-content: center;
+}
+
+#image {
+    display: block;
+    max-width: 30%;
+    height: auto;
+    position: absolute;
+}
+
+#img-caption {
+  position: absolute;
+}
